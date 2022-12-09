@@ -12,7 +12,7 @@ while (z <= 'z')
 if (z != 'q' && z != 'e')
 {
 putchar(z);
-}      
+}
 z++;
 }
 putchar('\n');
